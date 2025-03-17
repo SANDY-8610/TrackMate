@@ -9,13 +9,13 @@ TrackMate is a simple, user-friendly expense tracker web app built with Flask an
 - Generate Expense Reports
 - Secure, Simple UI
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python Flask
 - **Database**: MySQL
 - **Tools**: PyCharm, XAMPP, OpenCV (for image processing)
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 1. Download the file or clone the repository
 
