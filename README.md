@@ -36,3 +36,8 @@ TrackMate is a simple, user-friendly expense tracker web app built with Flask an
   flask run
 
 
+## LOGIN DETAILS 
+
+### Admin
+**user:** `admin`
+**pass:** `admin123`
